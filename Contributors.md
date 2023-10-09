@@ -754,6 +754,7 @@ Indra Sonowal
 - [Victoria] (github.com/vjordan-cs)
 - [Jeppe Hauman] (https://github.com/JeppeHauman)
 - [Sana]
+- [RuwanC]
 - [Matt Villa](https://github.com/mv805)
 Vedant Borkar
 - [Ibukun Ekunwe](https://github.com/ekunweibukun)
